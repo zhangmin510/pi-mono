@@ -5,6 +5,7 @@
 	"workspaces": [
 		"packages/*",
 		"packages/web-ui/example",
+		"hn-video-workflow",
 		"packages/coding-agent/examples/extensions/with-deps",
 		"packages/coding-agent/examples/extensions/custom-provider-anthropic",
 		"packages/coding-agent/examples/extensions/custom-provider-gitlab-duo",
